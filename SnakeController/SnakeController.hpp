@@ -6,9 +6,11 @@
 
 #include "IEventHandler.hpp"
 #include "SnakeInterface.hpp"
+#include "Map.hpp"
 
 class Event;
 class IPort;
+
 
 namespace Snake
 {
@@ -22,7 +24,7 @@ struct UnexpectedEventException : std::runtime_error
     UnexpectedEventException();
 };
 
-class Controller : public IEventHandler
+class Controller : public IEventHandler, public Map
 {
 public:
     Controller(IPort& p_displayPort, IPort& p_foodPort, IPort& p_scorePort, std::string const& p_config);
@@ -37,7 +39,7 @@ private:
     IPort& m_foodPort;
     IPort& m_scorePort;
 
-    std::pair<int, int> m_mapDimension;
+    Map m_mapDimension;
     std::pair<int, int> m_foodPosition;
 
     struct Segment
