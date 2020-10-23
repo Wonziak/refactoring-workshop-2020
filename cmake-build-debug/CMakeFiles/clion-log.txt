@@ -1,0 +1,23 @@
+/snap/clion/129/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/paro/Pulpit/ref2/refactoring-workshop-2020
+CMake Error at DynamicEvents/CMakeLists.txt:8 (add_library):
+  add_library INTERFACE library requires no source arguments.
+
+
+CMake Error at DynamicEvents/CMakeLists.txt:9 (add_dependencies):
+  Cannot add target-level dependencies to non-existent target
+  "DynamicEvents".
+
+  The add_dependencies works for top-level logical targets created by the
+  add_executable, add_library, or add_custom_target commands.  If you want to
+  add file-level dependencies see the DEPENDS option of the add_custom_target
+  and add_custom_command commands.
+
+
+CMake Error at DynamicEvents/CMakeLists.txt:10 (target_include_directories):
+  Cannot specify include directories for target "DynamicEvents" which is not
+  built by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/paro/Pulpit/ref2/refactoring-workshop-2020/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/paro/Pulpit/ref2/refactoring-workshop-2020/cmake-build-debug/CMakeFiles/CMakeError.log".

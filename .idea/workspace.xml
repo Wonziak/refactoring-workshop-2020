@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="RefactoringWorkshop" targetName="gmock" />
+      <config projectName="RefactoringWorkshop" targetName="gtest_main" />
+      <config projectName="RefactoringWorkshop" targetName="SnakeController_UT" />
+      <config projectName="RefactoringWorkshop" targetName="gmock_main" />
+      <config projectName="RefactoringWorkshop" targetName="gtest" />
+      <config projectName="RefactoringWorkshop" targetName="SnakeController" />
+      <config projectName="RefactoringWorkshop" targetName="DynamicEvents_HEADERS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e273f918-41b0-484e-bb91-b932b9c52eff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jHeHsMqIezUMHmInjAAfPWnOMS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+  </component>
+  <component name="RunManager" selected="Google Test.SnakeController_UT">
+    <configuration name="SnakeController_UT" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="SnakeController_UT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RefactoringWorkshop" RUN_TARGET_NAME="SnakeController_UT" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicEvents_HEADERS" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="DynamicEvents_HEADERS" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnakeController" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="SnakeController" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RefactoringWorkshop" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.DynamicEvents_HEADERS" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.SnakeController" />
+      <item itemvalue="Google Test.SnakeController_UT" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e273f918-41b0-484e-bb91-b932b9c52eff" name="Default Changelist" comment="" />
+      <created>1603465360097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603465360097</updated>
+      <workItem from="1603465363476" duration="4887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="149" width="802" height="676" key="#New_File_Extensions" timestamp="1603468879111">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state x="555" y="149" width="802" height="676" key="#New_File_Extensions/0.28.1920.919@0.28.1920.919" timestamp="1603468879111" />
+    <state x="418" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603469070398">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state x="418" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.919@0.28.1920.919" timestamp="1603469070398" />
+    <state x="693" y="237" width="526" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603469010531">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state x="693" y="237" width="526" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1920.919@0.28.1920.919" timestamp="1603469010531" />
+    <state x="743" y="246" width="426" height="483" key="FileChooserDialogImpl" timestamp="1603468484264">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state x="743" y="246" width="426" height="483" key="FileChooserDialogImpl/0.28.1920.919@0.28.1920.919" timestamp="1603468484264" />
+    <state width="1874" height="142" key="GridCell.Tab.0.bottom" timestamp="1603470469457">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state width="1874" height="142" key="GridCell.Tab.0.bottom/0.28.1920.919@0.28.1920.919" timestamp="1603470469457" />
+    <state width="1874" height="142" key="GridCell.Tab.0.center" timestamp="1603470469457">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state width="1874" height="142" key="GridCell.Tab.0.center/0.28.1920.919@0.28.1920.919" timestamp="1603470469457" />
+    <state width="1874" height="142" key="GridCell.Tab.0.left" timestamp="1603470469456">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state width="1874" height="142" key="GridCell.Tab.0.left/0.28.1920.919@0.28.1920.919" timestamp="1603470469456" />
+    <state width="1874" height="142" key="GridCell.Tab.0.right" timestamp="1603470469457">
+      <screen x="0" y="28" width="1920" height="919" />
+    </state>
+    <state width="1874" height="142" key="GridCell.Tab.0.right/0.28.1920.919@0.28.1920.919" timestamp="1603470469457" />
+  </component>
+</project>
